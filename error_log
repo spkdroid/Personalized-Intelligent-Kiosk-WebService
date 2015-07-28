@@ -1,0 +1,1 @@
+[15-Jun-2015 00:25:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/vrk1990/public_html/merlin/passwordcheck.php on line 29
